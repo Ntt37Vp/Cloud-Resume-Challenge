@@ -1,11 +1,11 @@
 body{
     background-color: #F0F5F9;
     color: #282A35;
-    margin: 1%;
+    margin: 2%;
     padding: 1%;
 }
 h1{
-    letter-spacing: 10px;
+    letter-spacing: 8px;
 }
 #title{
     text-align: center;
@@ -25,4 +25,5 @@ footer{
     font-family: 'Courier New', Courier, monospace;
     font-size: small;
     text-align: center;
+
 }
