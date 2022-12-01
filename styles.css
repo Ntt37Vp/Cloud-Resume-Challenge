@@ -4,9 +4,12 @@ body{
     margin: 2%;
     padding: 1%;
 }
+
 h1{
     letter-spacing: 8px;
+    text-transform: uppercase;
 }
+
 #title{
     text-align: center;
     font-size: larger;
