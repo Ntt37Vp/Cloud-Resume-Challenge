@@ -28,9 +28,11 @@ footer{
     font-family: 'Courier New', Courier, monospace;
     font-size: small;
     text-align: center;
-<<<<<<< HEAD
 
 }
-=======
+a{
+    text-decoration: none;
 }
->>>>>>> 102a839fb82d91995d9be7c7f4a1819a88e35e1d
+a:hover {
+    text-decoration: underline;
+}
